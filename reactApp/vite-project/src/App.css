@@ -1,0 +1,64 @@
+body {
+  background-color: black;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.calc-wrapper {
+  background-color: white;
+  width: 350px;
+  border-radius: 16px;
+  margin-top: 50px;
+  /* color: blue; */
+}
+
+.row {
+  display: flex;
+}
+
+.button-wrapper {
+  height: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24;
+  background-color: #5a5a5a;
+  color: white;
+  flex: 1;
+  margin: 4px;
+  border-radius: 25px;
+}
+
+.input-wrapper {
+  height: 10em;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.result {
+  flex: 1;
+  font-size: 24px;
+  color: black;
+}
+
+.text {
+  flex: 1;
+  font-size: 18px;
+  color: black;
+}
+
+.login-wrapper {
+ margin-top: 20%;
+ margin-left: 45%;
+}
+
+.login-wrapper h4 {
+  color: white;
+}

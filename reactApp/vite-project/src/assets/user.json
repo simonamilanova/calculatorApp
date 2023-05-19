@@ -1,0 +1,14 @@
+{
+    "user1": {
+      "email": "simona.milanova@miraclemill.com",
+      "password": "test123"
+    },
+    "user2": {
+      "email": "smilanova97@gmail.com",
+      "password": "apple12"
+    },
+    "user3": {
+      "email": "testemail@gmail.com",
+      "password": "apple12"
+    }
+}
